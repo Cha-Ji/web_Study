@@ -6,4 +6,4 @@
     <li>PYTHON : FLASK</li>
 </ul>
 
-[홈페이지](http://chajiwon100785.pythonanywhere.com/admin/main)
+[홈페이지](http://chajiwon100785.pythonanywhere.com/admin)
